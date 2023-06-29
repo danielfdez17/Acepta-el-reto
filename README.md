@@ -1,2 +1,2 @@
 # Acepta-el-reto
-Ejercicio de Acepta el reto (www.aceptaelreto.com)
+Ejercicios de Acepta el reto (www.aceptaelreto.com)
