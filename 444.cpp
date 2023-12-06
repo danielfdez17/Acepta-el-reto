@@ -22,7 +22,7 @@ int digestion(vector<int>const& v, int size, int k) {
 		}
 	}
 	return std::max(seg, maxSeg);
-}
+} 
 
 bool resuelveCaso() {
 	int size, k; cin >> size >> k;
