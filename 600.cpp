@@ -57,7 +57,7 @@ int main() {
 //	//ofstream out("out.txt");
 //	//auto coutbuf = std::cout.rdbuf(out.rdbuf());
 //#endif
-
+ 
 	while (resuelveCaso());
 
 	// restablecimiento de cin
