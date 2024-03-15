@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     
-    while (cin) {
+    while (true) {
         // ! if cin == special break
     }
 
